@@ -1,0 +1,13 @@
+h1,
+h2 {
+  color: rgb(78, 182, 147);
+  background-color: ;
+}
+address {
+  background-color: aqua;
+  width: 465px;
+}
+body {
+  margin-left: 200px;
+  margin-right: 300px;
+}
