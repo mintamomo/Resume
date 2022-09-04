@@ -1,13 +1,50 @@
 h1,
 h2 {
-  color: rgb(78, 182, 147);
+  color: rgb(3, 69, 4);
   background-color: ;
 }
-address {
+.address {
   background-color: aqua;
   width: 465px;
 }
-body {
+.indexb {
   margin-left: 200px;
   margin-right: 300px;
+  background-color: rgba(131, 209, 242, 0.863);
+}
+
+.information {
+  color: bisque;
+  background-color: rgb(3, 63, 63);
+}
+
+.submit,
+.reset {
+  background-color: rgb(237, 203, 203);
+  color: rgb(2, 6, 9);
+  border-color: blue;
+}
+
+.nuttamon {
+  color: rgba(0, 0, 0);
+  background-color: rgba(221, 255, 0, 0.966);
+  width: fit-content;
+  font-size: 40px;
+}
+
+.dj,
+.ride,
+.learn,
+.surf,
+.playgame {
+  color: rebeccapurple;
+  font-size: 23px;
+}
+
+.contactb {
+  background-color: rgb(43, 226, 195);
+}
+
+.hobbies {
+  background-color: rgba(68, 177, 220, 0.46);
 }
